@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: TABB INC.
+jobTitle: Background Firm Offering Healthcare Student Checks
+location: Chester, New Jersey
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/tabb-logo.webp
+  alt: Tabb Inc.
+siteUrl: https://www.abouttabbinc.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
-    url: https://www.facebook.com
+    url: https://www.facebook.com/p/TABB-Inc-100057161932000
     label: Visit
     show: true
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/company/tabb-incorporated
     label: Visit
     show: true
   pinterest:
