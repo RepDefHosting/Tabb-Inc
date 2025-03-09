@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: TABB INC.
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -13,11 +13,12 @@ subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
   src: /img/businesshero2.png
-  alt: Hero Image for home page
+  alt: TABB INC.
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: College administrators and students will benefit from our 30
+  years of experience in health care related background screenings conducted by
+  TABB INC.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+College administrators and students will benefit from our 30 years of experience in health care related background screenings conducted by TABB INC. Our investment in technology has automated processes, reduced overhead. As a result, we are able to pass significant savings on to students and reduce the involvement of college healthcare program administrators in the screening process.
