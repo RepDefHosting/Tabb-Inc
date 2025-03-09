@@ -3,9 +3,10 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Flexibility is key to developing a program that meets the goal
+  of the facility where the student will receive training and the college the
+  student attends. Student background screening is an important part of our
+  business plan
 published: true
 schemaType: WebPage
 header: Blog
